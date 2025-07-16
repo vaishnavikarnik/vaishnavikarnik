@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I’m Vaishnavi Karnik
 
-<!--
-**vaishnavikarnik/vaishnavikarnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Aspiring Data Analyst | 🐍 Python & SQL Learner | 🌸 Creative Explorer
 
-Here are some ideas to get you started:
+I’ve worked on a few projects involving **Python, SQL, EDA, and data visualization**, and I’m continuing to build more as I grow. Each project helps me sharpen both my technical skills and my **ability to identify the right problems to solve** — a skill I believe is just as important as solving them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I’m exploring **advanced SQL projects**, and preparing to dive into **Machine Learning and Deep Learning** soon.
+
+Working on real-world data makes me feel alive — it gives me space to **experiment, reflect, and expand my thinking**.
+
+> ⚡ **Fun fact:** I used to ask *“why?”* in philosophy — now I ask it in every step of my analysis. It keeps my curiosity alive and insights honest.
+
+---
+
+📫 Let’s connect:  
+- [LinkedIn](https://www.linkedin.com/in/vaishnavi-karnik-20248b273/)  
+- [GitHub Projects](https://github.com/vaishnavikarnik)
