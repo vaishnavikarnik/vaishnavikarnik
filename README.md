@@ -14,4 +14,4 @@ Working on real-world data makes me feel alive — it gives me space to **experi
 
 📫 Let’s connect:  
 - [LinkedIn](https://www.linkedin.com/in/vaishnavi-karnik-20248b273/)  
-- [GitHub Projects](https://github.com/vaishnavikarnik)
+- [GitHub Projects](https://github.com/vaishnavikarnik?tab=repositories)
