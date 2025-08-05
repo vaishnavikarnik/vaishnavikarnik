@@ -12,6 +12,12 @@ Currently, I’m exploring:
 
 Working on real-world data makes me feel alive — it gives me space to **experiment, reflect, and expand my thinking**.
 
+### 🏅 LeetCode Achievements
+
+![LeetCode Medal 1](https://leetcode.com/medal/?showImg=0&id=7606446&isLevel=false)
+![LeetCode Medal 2](https://leetcode.com/medal/?showImg=0&id=6028660&isLevel=false)
+
+
 > ⚡ **Fun fact:** I used to ask *“why?”* in philosophy — now I ask it in every step of my analysis. It keeps my curiosity alive and insights honest.
 ---
 
